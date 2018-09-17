@@ -1,2 +1,2 @@
 # Django-RESTFul-Server
-Django 기반의 RESTFul-Server 입니다.
+Django 2.0 기반의 RESTFul-Server 입니다.
